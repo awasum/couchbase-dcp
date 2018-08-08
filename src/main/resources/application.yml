@@ -1,0 +1,7 @@
+
+couchbase:
+  host: localhost
+  bucket:
+    bucketName: sandbox
+    username: Administrator
+    password: admin123
